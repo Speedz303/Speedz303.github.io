@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, verdana, sans-serif;
+    font-size: 17px;
+    margin: 0px auto;
+}
+
+div {
+    margin: 5px 5px 5px 15px;
+    padding: 15px;
+    font-weight: bold;
+    color: #FFF;
+    text-decoration: none;
+    background-size: 300px 100px;
+    background-repeat: no-repeat;
+}
+    
+
+#bI1{
+    background-image: url("../Images/imageBackground1.jfif");
+
+}
+
+#bI2{
+    background-image: url("../Images/imageBackground2.jfif");
+
+}
+
+#bI3{
+    background-image: url("../Images/imageBackground3.jfif");
+
+}

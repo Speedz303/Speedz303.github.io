@@ -1,0 +1,42 @@
+body{
+    margin: 0px auto;
+    font-family: Arial, verdana, sans-serif;
+}
+
+table{
+    margin: 10px;
+    border: 1px solid #000;
+}
+
+table caption{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+table thead{
+   
+    background-color: gray;
+}
+
+table thead th{
+    padding: 3px 5px 3px 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+}
+table tbody{
+    text-align: left;
+    font-size: 13px;
+}
+
+table tbody tr td{
+    padding-left: 3px;
+}
+
+.id1{
+    background-color: #dfe6e9;
+}
+
+.id2{
+    background-color: #b2bec3;
+}

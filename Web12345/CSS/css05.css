@@ -1,0 +1,38 @@
+body{
+    color:#000;
+    background-color: #fff;
+    font-size:12px;
+    font-family: arial,verdana,sans-serif;
+}
+
+p, h1, img {
+    padding: 7px;
+    border: 1px solid #000;
+    word-spacing: 0.5px;
+}
+
+h1{
+    border: 2px solid #000;
+    background-color: gray;
+}
+
+img{
+    padding:3px;
+}
+
+p.tag{
+    border: 1px dashed blue;
+}
+
+b.one{
+    padding: 2px;
+    border: 1px solid #000;
+    background-color: gray;
+    
+}
+
+b.two{
+    padding: 2px;
+    border: 1px dashed #ff0000;
+    background-color: gray;
+}

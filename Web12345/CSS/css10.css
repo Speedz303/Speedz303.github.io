@@ -1,0 +1,87 @@
+body{
+    margin: 0px auto;
+    padding:0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+#webText{   
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 20px;
+    color: green;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#menu_top{
+    background: #00a8ff;
+    height: 40px;
+}
+
+#menu_top ul li{
+    list-style: none;
+    float: left;
+    margin-right: 15px;
+    line-height: 35px;
+}
+
+#menu_top ul li a{
+    margin-right: 15px;
+    text-decoration: none;
+    color : #FFF;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+#menu_top ul li a:hover{
+    border-bottom: black dashed 1.25px;
+    color: black;
+}
+
+#menu_top #txtShadow{
+    margin-right: 20px;
+    padding-right: 20px;
+    display: block;
+    color: rgb(241, 241, 32);
+    text-shadow: #000 6px 3px 2px;
+    font-weight: bold;
+    font-size: 25px;
+}
+#menu_top #iLogin{
+    margin-left: 600px;
+    vertical-align: top;
+}
+
+#ibody{
+    margin: 20px;
+    padding-left: 20px;
+}
+
+#ibody p{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#ibody p b{
+    color:green;
+    font-size: 18px;
+}
+
+input[type=button]{
+    display: block;
+    width: 70px; height: 30px;
+    background: #74b9ff;
+    border: 0.25px solid #74b9ff;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 13px;
+    transition: 0.25s;
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+input[type=button]:hover{
+    background: #a29bfe;
+    transition: 0.5s;
+}

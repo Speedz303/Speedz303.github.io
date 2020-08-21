@@ -1,0 +1,26 @@
+body{
+    padding: 5px;
+    margin: 5px;
+    font-family: arial;
+    font-size: 13px;
+    text-align: justify;
+}
+
+div{
+    padding: 1px;
+    margin: 15px ;
+    width: 205px;
+    height: 85px;
+    border: 1.25px solid #000;
+    background-color: yellow;
+
+}
+
+#id02{
+    line-height: 20px;
+    overflow:hidden;
+}
+
+#id03{
+    overflow:scroll;
+}

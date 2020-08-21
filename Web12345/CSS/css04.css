@@ -1,0 +1,27 @@
+@charset "UTf-8";
+body{
+    color:#000;
+    background-color: #fff;
+    font-size:12px;
+    font-family: arial,verdana,sans-serif;
+}
+
+a:default{
+    color:green;
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+    text-decoration:none;
+}
+
+a:hover{
+    color:red;
+    text-decoration-line: underline;
+}
+
+a:focus{
+    color: yellow;
+    text-decoration-line: underline;
+}
+
